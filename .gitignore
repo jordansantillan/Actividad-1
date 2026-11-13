@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Thumbs.db
 desktop.ini
 .DS_Store
 *.log
+=======
+*.tmp
+~$*
+>>>>>>> origin/main
